@@ -1,0 +1,16 @@
+{
+  "name": "Result Management System",
+  "version": "1.0",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
